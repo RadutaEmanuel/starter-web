@@ -30,4 +30,4 @@ Sample website with plenty of files for demos
 
 ###Copyright
 
-Git.Training.
+2023.Git.Training.All rights  reserved
