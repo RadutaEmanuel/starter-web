@@ -3,11 +3,11 @@
 
 # TEAM
 
-    <ADSAD> -- <ADSASD> -- <AFAFA>
+    <Modern> -- <Name> -- <modern.name@modernmail.com>
 
 # THANKS
 
-    <name>
+    <Old Name>
 
 # TECHNOLOGY COLOPHON
 
