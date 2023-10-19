@@ -4,6 +4,8 @@ This is a simple websire project for
 showing ghow to use Git and Github together
 NO RUBISH IN HERRE, ALL IS CLEAN !!!!
 CHECK IT YOURSELF YOU NONBELIVER !!!!
+Updating for emergency fixafter stash !!!
+
 
 
 
