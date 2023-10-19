@@ -24,3 +24,8 @@ file system.
 Sample website with plenty of files for demos
 
 ## How To Contribute
+
+
+###Copyright
+
+Git.Training.
